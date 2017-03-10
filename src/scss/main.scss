@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+@import "./variables";
+@import "~bulma";
+
+.bg-black {
+  background-color: #444;
+}
+.logo {
+  margin-left: 5px;
+  img {
+    width: 98px;
+    height: 28px;
+  }
+}
